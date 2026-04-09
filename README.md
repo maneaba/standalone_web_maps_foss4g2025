@@ -159,7 +159,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Workshop Instructor
 
-This workshop is led by [Stephanie May](https://talks.osgeo.org/foss4g-2025/speaker/7A883D/), open source enthusiast, CNG board member, MapLibre board member, and cartographer at large.
+This workshop is led by [Stephanie May](https://mizmay.com), open source enthusiast, [CNG board member](https://cloudnativegeo.org/about/), [MapLibre board member](https://maplibre.org/about/), and cartographer at large.
 
 Created for FOSS4G 2025 workshop attendees.
 

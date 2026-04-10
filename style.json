@@ -7,7 +7,7 @@
       "attribution": "<a href=\"https://github.com/protomaps/basemaps\">Protomaps</a> © <a href=\"https://openstreetmap.org\">OpenStreetMap</a>",
       "type": "vector",
       "url": 
-        ["pmtiles://sources/waiheke_island.pmtiles"]    },
+        "pmtiles://sources/waiheke_island.pmtiles"   },
     "te-ara-hura": {
       "type": "geojson",
       "data": "https://maneaba.github.io/standalone_web_maps_foss4g2025/sources/te_ara_hura.geojson"

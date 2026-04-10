@@ -3,14 +3,14 @@
   "name": "style@4.4.0 theme@light lang@en",
   "metadata": {"maputnik:renderer": "mlgljs"},
   "sources": {
-    "protomaps": {
-      "attribution": "<a href=\"https://github.com/protomaps/basemaps\">Protomaps</a> © <a href=\"https://openstreetmap.org\">OpenStreetMap</a>",
-      "type": "vector",
-      "url": 
-        "pmtiles://sources/waiheke_island.pmtiles"   },
     "te-ara-hura": {
       "type": "geojson",
-      "data": "https://maneaba.github.io/standalone_web_maps_foss4g2025/sources/te_ara_hura.geojson"
+      "data": "sources/te_ara_hura.geojson"
+    },
+    "protomaps": {
+      "type": "vector",
+      "url": "pmtiles://sources/waiheke_island.pmtiles",
+      "attribution": "© <a href=\"https://openstreetmap.org\" target=\"_blank\" rel=\"noopener noreferrer\">OpenStreetMap</a>"
     }
   },
   "sprite": "https://protomaps.github.io/basemaps-assets/sprites/v4/light",
